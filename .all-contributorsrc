@@ -1,0 +1,76 @@
+{
+  "projectName": "nodejs-ws-template",
+  "projectOwner": "asyncapi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "fmvilas",
+      "name": "Fran Méndez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242119?v=4",
+      "profile": "http://www.fmvilas.com/",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "derberg",
+      "name": "Lukasz Gornicki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6995927?v=4",
+      "profile": "https://dev.to/derberg",
+      "contributions": [
+        "infra",
+        "code",
+        "review",
+        "maintenance",
+        "doc",
+        "blog"
+      ]
+    },
+    {
+      "login": "aayushmau5",
+      "name": "Aayush Kumar Sahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54525741?v=4",
+      "profile": "https://aayushsahu.com",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "KatrinaAS",
+      "name": "Katrina Knight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/690546?v=4",
+      "profile": "https://github.com/KatrinaAS",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "RageZBla",
+      "name": "Olivier Lechevalier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1196871?v=4",
+      "profile": "https://github.com/RageZBla",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Krishks369",
+      "name": "Krishna Kumar S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71367204?v=4",
+      "profile": "https://github.com/Krishks369",
+      "contributions": [
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": false
+}
